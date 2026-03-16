@@ -1,4 +1,21 @@
-.pfp{
-    margin-top: 300px;
-    margin-left: 300px;
+
+
+.pair {
+    display: flex; 
+    align-items: stretch;
+    margin-top: 150px;
+    margin-left: 170px;
+    margin-right: 170px;
+    gap: 150px;  
+
+}
+
+.pair img {
+    width: 200px; 
+    height: 200px;
+    
+}
+
+.text-content {
+    flex: 1; /* Allows text to take up remaining space */
 }
