@@ -23,3 +23,26 @@
  padding-left: 300px;
    
 }
+
+.cardtitle{
+ overflow-wrap: break-word;
+
+}
+
+.card-img-top{
+
+  height: 50%;
+  width: 50%;
+}
+
+.card{
+height: 5em;
+  width: 20em;
+
+}
+
+.card-body{
+height: 2em;
+  width: 20em;
+
+}
