@@ -1,21 +1,25 @@
-
-
-.pair {
-    display: flex; 
-    align-items: stretch;
-    margin-top: 150px;
-    margin-left: 170px;
-    margin-right: 170px;
-    gap: 150px;  
+.container{
+  padding-top: 100px; 
 
 }
 
-.pair img {
-    width: 200px; 
-    height: 200px;
-    
+.Skills{
+ 
+ padding-top: 200px;
+ padding-left: 300px;
+ padding-bottom: 400px;  
+
 }
 
-.text-content {
-    flex: 1; /* Allows text to take up remaining space */
+#carouselExampleCaptions{
+   height: 500px;
+   width: 500px;
+   margin: auto;
+   
+}
+
+.resume{
+ padding-top: 200px;
+ padding-left: 300px;
+   
 }
