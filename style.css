@@ -1,20 +1,21 @@
 .container{
-  padding-top: 100px; 
+  padding-top: 6em; 
 
 }
 
 .Skills{
  
- padding-top: 200px;
- padding-left: 300px;
- padding-bottom: 400px;  
+ padding-top: 3em;
+ padding-left: 1em;
+ padding-bottom: 3em;  
 
 }
 
 #carouselExampleCaptions{
-   height: 500px;
-   width: 500px;
-   margin: auto;
+   height: 0em;
+   width: 0em;
+  margin: auto;
+
    
 }
 
@@ -38,11 +39,44 @@
 .card{
 height: 5em;
   width: 20em;
-
 }
 
 .card-body{
 height: 2em;
   width: 20em;
+
+}
+
+footer{
+  height: 4em;
+  width: 99999em;
+  background-color: rgb(239, 255, 204);
+
+}
+
+.container-fluid{
+ background-color: rgb(207, 225, 255);
+height: 6em;
+width: 9999em;
+}
+
+.navbar{
+ background-color: rgb(207, 225, 255);
+height: 1em;
+width: 9999em;
+}
+
+.table-primary{
+ background-color: blue;
+
+}
+
+.table-L{
+ 
+  background-color: blue;
+}
+.W-card{
+padding-bottom: 13em;
+   padding-top: 5em;
 
 }
