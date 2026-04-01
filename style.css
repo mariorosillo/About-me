@@ -4,14 +4,6 @@
 }
 
 
-
-.resume{
- padding-top: 200px;
- padding-left: 300px;
-   
-}
-
-
 footer{
   height: 3em;
   width: 99999em;
@@ -57,4 +49,15 @@ h2{
 hr{
   background-color: brown;
   size: 2em;
+}
+
+
+
+.datatype-uniquifier {
+  font-family: "Datatype", monospace;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
 }
